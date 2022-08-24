@@ -16,3 +16,4 @@ function OnStart()
 	//Add layout to app.	
 	app.AddLayout( lay )
 }
+
