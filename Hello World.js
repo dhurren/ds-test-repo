@@ -1,4 +1,8 @@
 
+
+//app.ReadFile()
+//app.DownloadFile()
+ 
 //Called when application is started.
 function OnStart()
 {

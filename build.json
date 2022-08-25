@@ -1,0 +1,12 @@
+
+{
+    "manifest": {
+        "minSdkVersion": 24,
+        "targetSdkVersion": 31,
+        "homeScreen": false,
+        "removePermissions": "WRITE_EXTERNAL_STORAGE,CHANGE_WIFI_MULTICAST_STATE",
+        "urlScheme": "https,http",
+        "urlHost": "mywebsite,bigwebsite",
+        "urlPathPrefix": "/mobile,/fred"
+    }
+}
